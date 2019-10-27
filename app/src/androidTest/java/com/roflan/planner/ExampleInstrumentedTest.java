@@ -1,4 +1,4 @@
-package com.example.roflan_planer;
+package com.roflan.planner;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.roflan_planer", appContext.getPackageName());
+        assertEquals("com.roflan.planner", appContext.getPackageName());
     }
 }

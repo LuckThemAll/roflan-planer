@@ -1,4 +1,4 @@
-package com.example.roflan_planer;
+package com.roflan.planner;
 
 import org.junit.Test;
 

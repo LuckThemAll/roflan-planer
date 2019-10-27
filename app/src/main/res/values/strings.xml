@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">roflan_planer</string>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="evetn_name">Evetn Name:</string>
+    <string name="start_in">Start in:</string>
+    <string name="end_in">End in:</string>
+    <string name="create_event">Create Event</string>
+    <string name="textview">TextView</string>
+    <string name="start_date_hint">10.05.2019</string>
+    <string name="start_time_hint">10:00</string>
+    <string name="end_date_hint">11.05.2019</string>
+    <string name="end_time_hint">10:00</string>
+    <string name="event_description">Something about event…</string>
+    <string name="save_btn">Save Event</string>
+    <string name="delete">DELETE</string>
+    <string name="event_name">Event name...</string>
+    <string name="event_id">id</string>
 </resources>

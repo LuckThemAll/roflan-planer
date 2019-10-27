@@ -3,4 +3,9 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="eventColor1">#7FDCF9BF</color>
+    <color name="eventColor2">#7Fbfc2f9</color>
+    <color name="eventColor3">#7Ff9bfee</color>
+    <color name="eventColor4">#7Ff9bfc6</color>
 </resources>
